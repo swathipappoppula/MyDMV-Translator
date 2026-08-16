@@ -5,7 +5,6 @@ AI-powered multilingual DMV learning platform.
 ## Getting started
 
 ```bash
-cd drivebridge
 npm install
 npm run dev
 ```
